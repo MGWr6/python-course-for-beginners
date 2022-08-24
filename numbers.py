@@ -11,6 +11,7 @@ We have a whole bunch of opperators at our disposal
 / Division
 // Floor division
 % Modulus (remainder of x / y) | use divmod(a, b) 
+
 ** Exponentiation (power of) | can also use pow(x , y) instead of x**y
 
 Assignment Opperators:
